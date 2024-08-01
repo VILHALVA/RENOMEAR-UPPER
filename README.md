@@ -7,6 +7,10 @@
 Este é um simples executável feito em Python que permite renomear todos os arquivos em um diretório para letras maiúsculas e substituir espaços por sublinhados. Essa ferramenta pode ser útil para padronizar nomes de arquivos em um diretório.
 
 ## EXECUTANDO O PROJETO:
+- Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 - Clique no botão `SELECIONAR` para escolher o diretório contendo os arquivos que você deseja renomear.
 - Após selecionar o diretório, o programa renomeará automaticamente todos os arquivos no diretório para letras maiúsculas e substituirá espaços por sublinhados.
 - Uma mensagem informará se a operação foi concluída com sucesso ou se ocorreu algum erro.
